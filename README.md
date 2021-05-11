@@ -4,6 +4,15 @@
 ```
 npm install
 ```
+## Install JSON Server
+```
+npm install -g json-server
+```
+## Start JSON Server
+```
+Open new terminal and run
+json-server --watch db.json
+```
 
 ### Compiles and hot-reloads for development
 ```
@@ -15,5 +24,4 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+

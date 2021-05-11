@@ -1,28 +1,34 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+  <v-app>
+    <TheHeader/>
+
+    <v-main>
+      <app-container class="d-flex justify-space-between">
+        <the-filter></the-filter>
+        <filter-content class="flex-grow-1 ml-5"></filter-content>
+      </app-container>
+    </v-main>
+  </v-app>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import TheHeader from './components/TheHeader';
+import AppContainer from './components/AppContainer';
+import TheFilter from './components/TheFilter';
+import FilterContent from './components/FilterContent';
 
 export default {
   name: 'App',
-  components: {
-    HelloWorld
-  }
-}
-</script>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
+  components: {
+    TheHeader,
+    AppContainer,
+    TheFilter,
+    FilterContent
+  },
+
+  data: () => ({
+    //
+  }),
+};
+</script>

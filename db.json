@@ -1,0 +1,212 @@
+{
+  "customer": [
+      {
+          "name": "Ali",
+          "surname": "Durmaz",
+          "age": "32",
+          "gender": "male",
+          "profession": "Teacher",
+          "address": "Ankara",
+          "isActive":"false"
+      },
+      {
+          "name": "Ayşe",
+          "surname": "Onur",
+          "age": "24",
+          "gender": "female",
+          "profession": "Marketing Specialist",
+          "address": "Istanbul",
+          "isActive":"false"
+      },
+      {
+          "name": "Berna",
+          "surname": "Türker",
+          "age": "37",
+          "gender": "female",
+          "profession": "Marketing Lead",
+          "address": "Istanbul",
+          "isActive":"false"
+      },
+      {
+          "name": "Eren",
+          "surname": "Yüksel",
+          "age": "52",
+          "gender": "male",
+          "profession": "Civil Engineer",
+          "address": "Izmir",
+          "isActive":"false"
+      },
+      {
+          "name": "Kürşat",
+          "surname": "Durmaz",
+          "age": "31",
+          "gender": "male",
+          "profession": "Mining Engineer",
+          "address": "Afyon",
+          "isActive":"false"
+      },
+      {
+          "name": "Halil",
+          "surname": "Kara",
+          "age": "28",
+          "gender": "male",
+          "profession": "Mining Engineer",
+          "address": "Afyon",
+          "isActive":"false"
+      },
+      {
+          "name": "Atınç",
+          "surname": "Yılmaz",
+          "age": "26",
+          "gender": "male",
+          "profession": "Professor",
+          "address": "Antalya",
+          "isActive":"false"
+      },
+      {
+          "name": "Pablo",
+          "surname": "Neruda",
+          "age": "45",
+          "gender": "male",
+          "profession": "Writer",
+          "address": "Parral",
+          "isActive":"false"
+      },
+      {
+          "name": "Franz",
+          "surname": "Kafka",
+          "age": "41",
+          "gender": "male",
+          "profession": "Thinker",
+          "address": "Prague",
+          "isActive":"false"
+      },
+      {
+          "name": "George",
+          "surname": "Orwell",
+          "age": "41",
+          "gender": "male",
+          "profession": "Thinker",
+          "address": "London",
+          "isActive":"false"
+      },
+      {
+          "name": "Tomris",
+          "surname": "Uyar",
+          "age": "42",
+          "gender": "female",
+          "profession": "Writer",
+          "address": "Istanbul",
+          "isActive":"false"
+      },
+      {
+          "name": "Fyodor",
+          "surname": "Dostoevsky",
+          "age": "62",
+          "gender": "male",
+          "profession": "Writer",
+          "address": "Moskova",
+          "isActive":"false"
+      },
+      {
+          "name": "Sena",
+          "surname": "Aslan",
+          "age": "25",
+          "gender": "female",
+          "profession": "Nurse",
+          "address": "Izmir",
+          "isActive":"false"
+      },
+      {
+          "name": "Tuba",
+          "surname": "Kara",
+          "age": "27",
+          "gender": "female",
+          "profession": "Nurse",
+          "address": "Izmir",
+          "isActive":"false"
+      },
+      {
+          "name": "Batuhan",
+          "surname": "Sönmez",
+          "age": "35",
+          "gender": "male",
+          "profession": "Developer",
+          "address": "Istanbul",
+          "isActive":"false"
+      },
+      {
+          "name": "Semih",
+          "surname": "Dal",
+          "age": "35",
+          "gender": "male",
+          "profession": "Developer",
+          "address": "Istanbul",
+          "isActive":"false"
+      },
+      {
+          "name": "Rifat",
+          "surname": "Karaduman",
+          "age": "33",
+          "gender": "male",
+          "profession": "Developer",
+          "address": "Istanbul",
+          "isActive":"false"
+      },
+      {
+          "name": "Elif",
+          "surname": "Akkaya",
+          "age": "42",
+          "gender": "female",
+          "profession": "HR Specialist",
+          "address": "Istanbul",
+          "isActive":"false"
+      },
+      {
+          "name": "Deniz",
+          "surname": "Çankaya",
+          "age": "26",
+          "gender": "female",
+          "profession": "Doctor",
+          "address": "Sivas",
+          "isActive":"false"
+      },
+      {
+          "name": "Semih",
+          "surname": "Dal",
+          "age": "35",
+          "gender": "male",
+          "profession": "Developer",
+          "address": "Istanbul",
+          "isActive":"false"
+      },
+      {
+          "name": "Kamil",
+          "surname": "Yeniay",
+          "age": "45",
+          "gender": "male",
+          "profession": "Ios Developer",
+          "address": "Istanbul",
+          "isActive":"false"
+      },
+      {
+          "name": "Erol",
+          "surname": "Fahli",
+          "age": "38",
+          "gender": "male",
+          "profession": "Engineer",
+          "address": "Hatay",
+          "isActive":"false"
+      },
+      {
+          "name": "Veli",
+          "surname": "Dal",
+          "age": "35",
+          "gender": "male",
+          "profession": "Teacher",
+          "address": "Istanbul",
+          "isActive":"false"
+      }
+
+  ]
+}
